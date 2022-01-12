@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+
+section#books-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+:root {
+  font-size: 60%;
+}
